@@ -1,0 +1,6 @@
+﻿  HW0_sandbox.cpp
+c:\users\bbper\onedrive\documents\fall 2021 classes\comp pro\homeworks\hw0_sandbox\hw0_sandbox\hw0_sandbox.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbper\onedrive\documents\fall 2021 classes\comp pro\homeworks\hw0_sandbox\hw0_sandbox\hw0_sandbox.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbper\onedrive\documents\fall 2021 classes\comp pro\homeworks\hw0_sandbox\hw0_sandbox\hw0_sandbox.cpp(127): warning C4129: 'Q': unrecognized character escape sequence
+c:\users\bbper\onedrive\documents\fall 2021 classes\comp pro\homeworks\hw0_sandbox\hw0_sandbox\hw0_sandbox.cpp(130): warning C4129: 'S': unrecognized character escape sequence
+  HW0_sandbox.vcxproj -> C:\Users\bbper\OneDrive\Documents\Fall 2021 Classes\Comp Pro\Homeworks\HW0_sandbox\Debug\HW0_sandbox.exe
