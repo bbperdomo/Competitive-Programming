@@ -1,4 +1,6 @@
-str1 = 'a b'
+buh = '0 2 4'
 
-x, y = str1.split()
-print(x,y)
+beds = map(int, buh.split())
+
+for bed in beds:
+    print(bed)
