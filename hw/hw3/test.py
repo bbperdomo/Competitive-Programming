@@ -1,3 +1,4 @@
-str1 = '1'
+str1 = 'a b'
 
-print(str1[:-1])
+x, y = str1.split()
+print(x,y)
