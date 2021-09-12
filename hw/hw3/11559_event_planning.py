@@ -7,11 +7,13 @@
 
 import sys
 
-#sys.stdin = open('input.txt')
+#sys.stdin = open('11559input.txt')
+line = sys.stdin.readline()
+
 
 #bitshift. 1 << 30 means 1 * 2^30
 INF = 1 << 30
-while True:
+while len(line):
     result = INF
     try:
         #n=people,b=budget,h=num of hotels,w=num of weeks
